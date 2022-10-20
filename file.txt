@@ -1,8 +1,5 @@
 este es un nuevo archivo 
 este es un ejemplo de checkout
 esto esta en la nueva rama
-<<<<<<< HEAD
-conflicto
-=======
 esto es un conflicto para arreglar
->>>>>>> rama
+
