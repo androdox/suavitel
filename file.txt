@@ -1,1 +1,2 @@
 este es un nuevo archivo 
+este es un ejemplo de checkout
