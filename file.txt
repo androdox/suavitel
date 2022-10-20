@@ -1,2 +1,3 @@
 este es un nuevo archivo 
 este es un ejemplo de checkout
+esto esta en la nueva rama
